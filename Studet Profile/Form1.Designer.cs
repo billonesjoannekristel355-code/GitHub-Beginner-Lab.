@@ -36,9 +36,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(271, 109);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(198, 16);
+            this.label1.Size = new System.Drawing.Size(186, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile: Billones Joanne ";
+            this.label1.Text = "Contact Number: 09972490268";
             // 
             // Form1
             // 
